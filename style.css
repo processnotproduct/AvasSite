@@ -1,0 +1,10 @@
+body {
+  background-color:orange;
+  text-align:center;
+  }
+  
+.title {
+  color:purple;
+  text-decoration:underline;
+  font-size:40;
+}
